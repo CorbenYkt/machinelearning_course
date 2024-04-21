@@ -3,7 +3,7 @@ Hello!
 I decided to publish my completed tasks on course of Machine Learning in Python. I had to cut some part of the material because it is copyrighted, and the author of this course is not me, but Ogul Unal. I want to share that it was a very good course with an even better teacher - Ogul Unal, many thanks to him for his knowledge and patience in his work.
 This course starts with the basics - data types, structures, etc. But very interesting things from the world of ML will soon begin - regressions, outliers, datasets, predictions and so on
 
-Task - Description
+Task - Description :ledger:
 -----------------------------
 1 - Here we are only getting acquainted with jupyter, python and data types<br>
 2 - Getting acquainted with working with arrays, the NumPy library<br>
