@@ -27,6 +27,6 @@ For the correct operation of task 13, you will need to have:
 haarcascade_frontalface_default.xml
 lbph_classifierGestures.yml
 
-they can be downloaded, they are in free access and here I do not attach them so as not to clutter up GIT.
+Both of them can be downloaded, they are in free access.
 
 Have fun with these examples!
